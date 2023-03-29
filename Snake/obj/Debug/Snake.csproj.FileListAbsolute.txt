@@ -1,0 +1,11 @@
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\bin\Debug\Snake.exe.config
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\bin\Debug\Snake.exe
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\bin\Debug\Snake.pdb
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.exe
+C:\Users\Muril\OneDrive\Área de Trabalho\Projetos em produção\Projetos academicos\Snakeform\Snake\obj\Debug\Snake.pdb
