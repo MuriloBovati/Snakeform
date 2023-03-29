@@ -23,7 +23,7 @@ Jogo da cobrinha utilizando C# Windowns Form
 - C# 
 
 # ⚙ Implantação em produção
-- Link para o jogo <a href=https://github.com/MuriloBovati/Snakeform/archive/refs/tags/V1.0.zip>Acessar</a>
+- Link para o jogo <a href=https://github.com/MuriloBovati/Snakeform/archive/refs/tags/V1.0.1.zip>Acessar</a>
 - Apos baixar Extrai o arquivo em algum lugar
 - Abra a pasta Snake -> bin -> Debug -> Snake.exe
 - Clicando duas vezes o jogo abrira bom divertimento!!!
